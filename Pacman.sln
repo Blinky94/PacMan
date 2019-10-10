@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "Pacman\Pacman.csproj", "{7DC4D18A-1D00-4351-94B3-84143F686F8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{6D466208-116B-4095-8F26-5AB594D27E68}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC4D18A-1D00-4351-94B3-84143F686F8F}.Debug|x86.ActiveCfg = Debug|x86
+		{7DC4D18A-1D00-4351-94B3-84143F686F8F}.Debug|x86.Build.0 = Debug|x86
+		{7DC4D18A-1D00-4351-94B3-84143F686F8F}.Release|x86.ActiveCfg = Release|x86
+		{7DC4D18A-1D00-4351-94B3-84143F686F8F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

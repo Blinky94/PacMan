@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>ggggggggPggggggggggggggggggggg</row>
+  <row>ggggggggCggggggggggggggggggggg</row>
+  <row>ggggggggCggggggggggggggggggggg</row>
+  <row>ggggggggCgggggggIYgggggggggggg</row>
+  <row>ggggggggCgggggggIYgggggggggggg</row>
+  <row>ggggggggCgggggggIYgggggggggggg</row>
+  <row>gggggggzCgggggggIYgggggggggggg</row>
+  <row>ggggggggCgggggggIYgggggggggggg</row>
+  <row>ggggggggCgggggggIYgggggggggggg</row>
+  <row>ggggggggCghgggggIYgggggggggggg</row>
+  <row>ggggggggCgggggggIYgggggggggggg</row>
+  <row>ggggggggCCCIIIIIIYgggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <row>gggggggggggggggggggggggggggggg</row>
+  <Width>30</Width>
+  <Height>30</Height>
+  <Color>
+    <Rouge>133</Rouge>
+    <Vert>147</Vert>
+    <Bleu>213</Bleu>
+  </Color>
+  <Fruit>small_orange</Fruit>
+</level>

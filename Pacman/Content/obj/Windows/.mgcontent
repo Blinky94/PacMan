@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ABG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ADBD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ADBG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ADHG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ADLG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ADRV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/AHG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ALBG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ALBGT.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ALDB.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ALRV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/ARV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Big_Blinky.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Big_Inky.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Big_Klyde.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Big_Pinky.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/CC.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/cerise.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/cle.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/cloche.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/DD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/dessin_PacMan.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Door.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/EE.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/FF.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme1.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme10.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme11.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme12.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme13.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme14.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme15.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme16.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme17.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme18.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme2.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme3.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme4.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme5.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme6.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme7.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme8.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/forme9.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Fruit_display.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/galboss.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/game_score.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/GG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/HH.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/high_score.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Level.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/LH.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/LHB.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/LHH.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/life_display.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/LV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/LVD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/melon.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/New_Blinky.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/New_Inky.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/New_Klyde.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/New_Paco.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/New_Paco_Dead.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/New_Pinky.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/orange.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/PAC_POWER2.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/pacman_beginning.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/pacman_death.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/pacman_eatfruit.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/pacman_eatghost.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/PACO.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/PACO_DEAD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Pellet_tile.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/pomme.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_cerise.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_cle.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_cloche.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_fraise.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_galboss.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_melon.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_orange.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/small_pomme.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/Sup_Pellet_tile.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/test_pac_rec.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/WAKA.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/../Arts/way_tile.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ABD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ABG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ADBD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ADBG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ADHG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ADLG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ADRV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/AHG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ALBG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ALBGT.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ALDB.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ALRV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/ARV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/CC.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/DD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/detect_tile.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/Door.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/EE.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/FF.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/File.spritefont</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme1.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme10.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme11.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme12.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme13.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme14.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme15.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme16.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme17.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme18.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme2.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme3.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme4.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme5.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme6.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme7.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme8.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/forme9.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/fraise.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/GG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/HH.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/LH.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/LHB.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/LHH.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/LV.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/LVD.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/LVG.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/PAC_POWER2.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/pacman_beginning.wav</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/Pellet_tile.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/recGhost.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/way_tile.bmp</File>
+    <File>D:/GameDevelop/Pacman/Pacman/Content/windowed_font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>ABG.bmp</File>
+    <File>ADBD.bmp</File>
+    <File>ADBG.bmp</File>
+    <File>ADHG.bmp</File>
+    <File>ADLG.bmp</File>
+    <File>ADRV.bmp</File>
+    <File>AHG.bmp</File>
+    <File>ALBG.bmp</File>
+    <File>ALBGT.bmp</File>
+    <File>ALDB.bmp</File>
+    <File>ALRV.bmp</File>
+    <File>ARV.bmp</File>
+    <File>Big_Blinky.bmp</File>
+    <File>Big_Inky.bmp</File>
+    <File>Big_Klyde.bmp</File>
+    <File>Big_Pinky.bmp</File>
+    <File>CC.bmp</File>
+    <File>cerise.bmp</File>
+    <File>cle.bmp</File>
+    <File>cloche.bmp</File>
+    <File>DD.bmp</File>
+    <File>dessin_PacMan.bmp</File>
+    <File>Door.bmp</File>
+    <File>EE.bmp</File>
+    <File>FF.bmp</File>
+    <File>forme1.bmp</File>
+    <File>forme10.bmp</File>
+    <File>forme11.bmp</File>
+    <File>forme12.bmp</File>
+    <File>forme13.bmp</File>
+    <File>forme14.bmp</File>
+    <File>forme15.bmp</File>
+    <File>forme16.bmp</File>
+    <File>forme17.bmp</File>
+    <File>forme18.bmp</File>
+    <File>forme2.bmp</File>
+    <File>forme3.bmp</File>
+    <File>forme4.bmp</File>
+    <File>forme5.bmp</File>
+    <File>forme6.bmp</File>
+    <File>forme7.bmp</File>
+    <File>forme8.bmp</File>
+    <File>forme9.bmp</File>
+    <File>Fruit_display.bmp</File>
+    <File>galboss.bmp</File>
+    <File>game_score.bmp</File>
+    <File>GG.bmp</File>
+    <File>HH.bmp</File>
+    <File>high_score.bmp</File>
+    <File>Level.bmp</File>
+    <File>LH.bmp</File>
+    <File>LHB.bmp</File>
+    <File>LHH.bmp</File>
+    <File>life_display.bmp</File>
+    <File>LV.bmp</File>
+    <File>LVD.bmp</File>
+    <File>melon.bmp</File>
+    <File>New_Blinky.bmp</File>
+    <File>New_Inky.bmp</File>
+    <File>New_Klyde.bmp</File>
+    <File>New_Paco.bmp</File>
+    <File>New_Paco_Dead.bmp</File>
+    <File>New_Pinky.bmp</File>
+    <File>orange.bmp</File>
+    <File>PAC_POWER2.wav</File>
+    <File>pacman_beginning.wav</File>
+    <File>pacman_death.wav</File>
+    <File>pacman_eatfruit.wav</File>
+    <File>pacman_eatghost.wav</File>
+    <File>PACO.bmp</File>
+    <File>PACO_DEAD.bmp</File>
+    <File>Pellet_tile.bmp</File>
+    <File>pomme.bmp</File>
+    <File>small_cerise.bmp</File>
+    <File>small_cle.bmp</File>
+    <File>small_cloche.bmp</File>
+    <File>small_fraise.bmp</File>
+    <File>small_galboss.bmp</File>
+    <File>small_melon.bmp</File>
+    <File>small_orange.bmp</File>
+    <File>small_pomme.bmp</File>
+    <File>Sup_Pellet_tile.bmp</File>
+    <File>test_pac_rec.bmp</File>
+    <File>WAKA.wav</File>
+    <File>way_tile.bmp</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>fullscreen_font.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

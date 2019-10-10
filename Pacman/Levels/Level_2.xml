@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <row>1111YLBpppeAAAAAAAAAAAAAAAAAdp</row>
+  <row>1111YpBpppYCCCCCCCCCCCCCCCCXBp</row>
+  <row>1111YpBpppYCVGGGGGGOCVOCVGOCBp</row>
+  <row>1111YpBpppYCBppppppYCBYCBpYCBp</row>
+  <row>1111YpBpppYCBppppppYCBYCBpYCBp</row>
+  <row>peAARpSAAARCSAdeAAARCSRCSARCBp</row>
+  <row>pYPCCCCCCCCCCCBYCCCCCCCCCCCCBp</row>
+  <row>pbGOCVOCVGGGOCBYCVGGGGOCVOCVcp</row>
+  <row>peARCBYCSAAdYCBYCBeAAARCBYCSdp</row>
+  <row>pYCCCBYCCCCBYCBYCBYCCCCCBYCCBp</row>
+  <row>pbGOCBbGGOCBYCBYCBYCVGGGcbOCBp</row>
+  <row>peARCSAAARCSRCSRCSRCSAAAAARCBp</row>
+  <row>pYCCCCCCCCCCCCCuCCCCCCCCCCCCBp</row>
+  <row>pbGOCVGGGOCVGGUUGGOCVGGOCVOCBp</row>
+  <row>peARCBpppYCBppppppYCBeARCBYCBp</row>
+  <row>pYCCCSAAARCBphKpspYCSRCCCBYCBp</row>
+  <row>pbGOCCCCCCCBppppppYCCCCVGcYCBp</row>
+  <row>peARCVOCVOCSAAAAAARCVOCSAARCBp</row>
+  <row>pYCCCSRCBYCCCCCaCCCCBYCCCCCCBp</row>
+  <row>pbGOCCCCBYCVOCVOCVOCBYCVGGOCBp</row>
+  <row>peARCVGGcYCSRCBYCSRCSRCSAdYCBp</row>
+  <row>pYCCCSAAdYCCCCBYCCCCCCCCCBYCBp</row>
+  <row>pbGOCCCCBYCVOCBYCVOCVGGOCBYCBp</row>
+  <row>pppYCVOCSRCSRCBYCSRCBppYCBYCBp</row>
+  <row>peARCBYCCCCCCCBYCCCCSAARCSRCBp</row>
+  <row>pYCCCBbOCVGGGGcbGOCCCCCCCCCZBp</row>
+  <row>pYCVGcpYCBpppppppYCVGGGOpVGGcp</row>
+  <row>pYCSAAARCSAAAAAAARCBpppYpB1111</row>
+  <row>pYxCCCCCCCCCCCCCCCCBpppYpB1111</row>
+  <row>pbGGGGGGGGGGGGGGGGGcpppYWB1111</row>
+  <row>111111111111111111111111111111</row>
+  <Width>30</Width>
+  <Height>31</Height>
+  <Color>
+    <Rouge>219</Rouge>
+    <Vert>10</Vert>
+    <Bleu>65</Bleu>
+  </Color>
+  <Fruit>small_fraise</Fruit>
+</level>
